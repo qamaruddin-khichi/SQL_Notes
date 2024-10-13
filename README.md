@@ -2,7 +2,7 @@
 
 ## SQL Roadmap
 
-For a complete SQL learning journey, check out the **SQL Roadmap** I've created:  
+For a complete SQL learning journey, check out the **SQL Complete Roadmap.pdf** I've created:  
 [SQL Complete Roadmap](https://github.com/qamaruddin-khichi/SQL-Complete-Roadmap.git)
 
 It will guide you step-by-step through essential topics and concepts, from beginner to advanced levels!
