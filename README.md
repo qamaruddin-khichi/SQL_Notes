@@ -1,9 +1,13 @@
-# SQL_Notes
+# SQL Notes
 
-## SQL_Roadmap
-https://github.com/qamaruddin-khichi/SQL-Complete-Roadmap.git
+## SQL Roadmap
 
-Welcome to **SQL_Notes**!
+For a complete SQL learning journey, check out the **SQL Roadmap** I've created:  
+[SQL Complete Roadmap](https://github.com/qamaruddin-khichi/SQL-Complete-Roadmap.git)
+
+It will guide you step-by-step through essential topics and concepts, from beginner to advanced levels!
+
+## Welcome to **SQL Notes**!
 
 I created this repository to share all the SQL notes I used during my learning journey. Whether you're just starting or looking to deepen your SQL knowledge, you'll find valuable information and examples here.
 
@@ -19,7 +23,6 @@ Feel free to explore, use, and contribute to make this repository even better.
 Happy learning!
 
 ---  
-**Connect**: If you have any questions or suggestions, feel free to reach out.
 
 ## Contact Details
 
@@ -27,3 +30,4 @@ Happy learning!
 **Email:** qamaruddinkhichi123@gmail.com  
 **LinkedIn:** [linkedin.com/in/qamaruddin-khichi/](https://www.linkedin.com/in/qamaruddin-khichi/)
 
+**Connect**: If you have any questions or suggestions, feel free to reach out.
